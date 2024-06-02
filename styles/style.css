@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(206, 242, 255);
+}
+
+.header {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h5 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.main-status {
+    height: 175px;
+}
+
+.search-label, .subscribe-label {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.main-forecast {
+    background-color: rgba(9, 132, 255, 0.74);
+}
